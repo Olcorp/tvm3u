@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:4294967,livestream.mp4
+#EXTVLCOPT:network-caching=1000
+http://radiocarlos.com:8080/livestream.mp4
